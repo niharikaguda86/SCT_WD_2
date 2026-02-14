@@ -1,12 +1,12 @@
-## SkillCraft Technology – Web Development Internship
-Task 01: Calculator Web Application
+# SkillCraft Technology – Web Development Internship
+## Task 02: Calculator Web Application
 
 A simple and responsive Calculator Web Application built using HTML, CSS, and JavaScript.
 This project performs basic arithmetic operations and is suitable for beginners learning front-end web development.
 
 ---
 
-#### 📌 Features
+### 📌 Features
 
 Basic arithmetic operations:
 
@@ -28,7 +28,7 @@ Real-time calculation
 
 ---
 
-#### 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 HTML – Structure of the calculator
 
@@ -38,8 +38,32 @@ JavaScript – Logic and calculations
 
 ---
 
-#### 📌 Status
-✅ Task 01 completed successfully.
+### 🎯 Usage
+
+Click the number buttons to enter values.
+
+Select an operator (+, -, *, /).
+
+Press = to get the result.
+
+Use C to clear the display.
+
+---
+
+### 🔮 Future Enhancements
+
+Keyboard input support
+
+Scientific calculator functions
+
+Dark mode
+
+Calculation history
+
+---
+
+### 📌 Status
+✅ Task 02 completed successfully.
 
 
 
